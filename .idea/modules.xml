@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DingTT.iml" filepath="$PROJECT_DIR$/DingTT.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dingtestlib/dingtestlib.iml" filepath="$PROJECT_DIR$/dingtestlib/dingtestlib.iml" />
     </modules>
   </component>
 </project>
